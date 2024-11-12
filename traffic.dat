@@ -1,0 +1,11 @@
+Priority    Sign       Lane       Seconds
+Priority 1: straight   main       50 seconds
+Priority 2: straight   diversion  30 seconds
+Priority 3: left       main       25 seconds
+Priority 4: left       diversion  20 seconds
+Priority 5: right      main       25 seconds
+Priority 6: right      diversion  20 seconds
+Priority 7: pedestrian main       15 seconds
+Priority 8: pedestrian diversion  20 seconds
+
+Time before 'pedestrian main' can cross: 170 seconds
